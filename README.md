@@ -1,5 +1,5 @@
 # DELTA
-Analyzes gamma-gamma angular correlations from unaligned states. 
+LEGACY CODE. Analyzes gamma-gamma angular correlations from unaligned states. 
 
 DELTA is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
